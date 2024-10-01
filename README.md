@@ -1,6 +1,6 @@
-# Beautiful-Optimized
-Beautiful Optimized is designed to provide maximum performance along with mods that change the visual part of the game, thanks to the best optimization mods available, tuned for the highest possible performance.
+<h1 align="center">Beautiful-Optimized</h1>
+Beautiful Optimized is designed to ensure maximum performance, while mods are added to the build for a more enjoyable and atmospheric game, high performance is achieved thanks to the best optimization mods available, tuned for the highest possible performance.
 
-I try to make sure that you can upgrade to new versions of Minecraft as quickly as possible, in a matter of hours and minutes! I try to make this package as relevant as possible at any time.
+I'm trying to make sure that you can upgrade to new versions of Minecraft as quickly as possible, in a matter of days! I try to make this package as relevant as possible at any time.
 
-Install:  https://modrinth.com/modpack/beautiful-optimized/version/2.0.2
+Install:  https://modrinth.com/modpack/beautiful-optimized/version/
