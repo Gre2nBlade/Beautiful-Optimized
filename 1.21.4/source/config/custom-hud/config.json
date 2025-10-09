@@ -1,0 +1,25 @@
+{
+  "configVersion": 3,
+  "debugMode": false,
+  "enabled": true,
+  "activeProfileName": "Example Profile",
+  "latestKnownVersion": "4.0.0-beta.9",
+  "profiles": [
+    {
+      "name": "Example Profile",
+      "key": "key.keyboard.unknown",
+      "cycle": true
+    },
+    {
+      "name": "F3 Clone",
+      "key": "key.keyboard.unknown",
+      "cycle": true
+    },
+    {
+      "name": "Simple",
+      "key": "key.keyboard.unknown",
+      "cycle": true
+    }
+  ],
+  "toggleBinds": []
+}
